@@ -34,7 +34,7 @@ a {
 footer {
     line-height: 100px;
     position: relative;
-    bottom: 0%;
+    bottom: -20px;
     width: 100%;
     margin-left: 0;
     margin-right: 0;
